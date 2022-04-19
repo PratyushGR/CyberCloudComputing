@@ -1,0 +1,7 @@
+import boto3
+session = boto3.Session(
+aws_access_key_id='AKIA556PJB7TASXSNLQI',
+aws_secret_access_key='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'
+)
+####
+#some functionality using credentials
